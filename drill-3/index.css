@@ -1,0 +1,43 @@
+body {
+  width: 100vw;
+  margin: 0px;
+  height: 100vh;
+}
+
+#grey-rectangle {
+  background-color: lightgray;
+  height: 150px;
+  display: flex;
+}
+#blue-square {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  margin: 26px;
+}
+#paragraph {
+  background-color: white;
+  /* height: 75px; */
+  margin: 50px;
+  /* padding: 50px; */
+}
+#blue-line {
+  background-color: blue;
+  height: 20vh;
+  display: flex;
+}
+#teal-line {
+  background-color: teal;
+  height: 20vh;
+  display: flex;
+}
+#yellow-line {
+  background-color: rgb(175, 215, 115);
+  height: 20vh;
+  display: flex;
+}
+#orange-line {
+  background-color: yellow;
+  height: 20vh;
+  display: flex;
+}

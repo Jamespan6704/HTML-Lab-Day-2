@@ -1,0 +1,55 @@
+#top-block {
+  border: 5px solid black;
+  height: 225px;
+  display: flex;
+}
+#purple-rec {
+  background-color: blueviolet;
+  height: 150px;
+  width: 60px;
+  margin: 60px 10px 10px;
+}
+#green-rec {
+  background-color: green;
+  height: 200px;
+  width: 400px;
+  margin: 10px 40px 10px;
+}
+#blue-circle {
+  background-color: lightblue;
+  height: 200px;
+  width: 200px;
+  margin: 10px 10px 10px;
+  border-radius: 50%;
+}
+#middle-block {
+  border: 5px dotted black;
+  height: 225px;
+  display: flex;
+  margin: 30px;
+}
+#beige-rec {
+  background-color: beige;
+  height: 150px;
+  width: 900px;
+  margin: auto;
+  box-shadow: 5px 5px 5px 3px;
+}
+#flash-card {
+  background-color: white;
+  height: 300px;
+  width: 500px;
+  margin: auto;
+  border: 1px solid lightgray;
+  display: flex;
+  box-shadow: 3px 3px 10px lightgray;
+}
+
+#paragraph {
+  color: darkblue;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: auto;
+  text-align: center;
+  letter-spacing: 10px;
+}
